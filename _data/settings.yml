@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Parker Bach', title: 'Ph.D. Student', department: 'Media & Communication', institution: 'University of North Carolina - Chapel Hill', institution_address: 'Hussman School of Media & Journalism', phone: '(000) 000-0000', email: 'pbach@unc.edu', office: 'TND', image: 'assets/img/contact.jpg'}
